@@ -1,0 +1,5 @@
+Delete page
+When it comes to deleting reviews and ratings on Zomato
+it identifies the specific review or rating that needs to be 
+removed and executing the necessary steps to delete it from the system. 
+This ensures that the review or rating is no longer visible on the platform
